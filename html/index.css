@@ -4,6 +4,10 @@ html, body {
 .container {
     padding: 12px 80px;
 }
+.links {
+    cursor: pointer;
+}
+
 .header-container {
     background-color: #ebebeb;
     padding: 20px 80px;
